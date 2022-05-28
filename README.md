@@ -37,8 +37,8 @@ inspiracion del proyecto: carlos cruz valencia diseño en figma
 | EN PROGRESO           |        ✔️      |  
 
 ## Vista previa del proyecto
+<img src="project-preview.gif" aling="center"></img>
 <!-- <img src="project-preview.gif" aling="center"></img> -->
-<img src="project-preview.png" aling="center"></img>
 
 ## Licencia
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md)  para mas detalles
