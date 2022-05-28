@@ -1,0 +1,26 @@
+#cursoreff{
+    position: absolute;
+    width: 5vw;
+    height: 5vw;
+    background-color: white;
+    mix-blend-mode: difference;
+    z-index: 1;
+    border-radius: 100vw;
+    transition: 0.1s;
+}
+img:hover ~ #cursoreff{
+    width: 15vw !important;
+    height: 15vw !important;
+}
+h1:hover ~ #cursoreff{
+    width: 15vw !important;
+    height: 15vw !important;
+}
+P:hover ~ #cursoreff{
+    width: 15vw !important;
+    height: 15vw !important;
+}
+.cursor ~ #cursoreff{
+    width: 15vw !important;
+    height: 15vw !important;
+}
