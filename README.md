@@ -1,5 +1,5 @@
 # cursor animation
-- mira la pagina en el siguiente link: [user-portfolio-2]( https://carloscruzvalencia.github.io/user-portfolio-2/)
+- mira la pagina en el siguiente link: [cursor animation](https://carloscruzvalencia.github.io/cursor-animation/)
 ## Links de interes
 <!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
