@@ -1,5 +1,9 @@
 # cursor animation
 - mira la pagina en el siguiente link: [cursor animation](https://carloscruzvalencia.github.io/cursor-animation/)
+## Inpiracion del proyecto & objetivo
+- El objetivo principal es aprender como hacer que un objeto persiga al raton/cursor
+
+inspiracion del proyecto: carlos cruz valencia diseño en figma
 ## Links de interes
 <!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
@@ -24,12 +28,6 @@ lenguajes/frameworks usados
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></code>
-
-## Inpiracion del proyecto & objetivo
-- El objetivo principal es aprender como hacer que un objeto persiga al raton/cursor
-
-inspiracion del proyecto: carlos cruz valencia diseño en figma
-
 
 ## Estado del proyecto
 |             ESTADO                |             |
